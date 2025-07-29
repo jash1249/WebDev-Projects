@@ -1,5 +1,5 @@
-# WebDev-Projects
-Landing Page - Internship Projects
+# Landing Page
+WebDev-Projects - Internship Projects
 A Landing Page is a common yet powerful project for beginner web developers. It helps in understanding the core structure of HTML and styling techniques with CSS.
 
 This project involved:
